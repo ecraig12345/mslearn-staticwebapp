@@ -4,6 +4,8 @@
     <p>
       This project was created to help represent a fundamental app written with
       Svelte. The shopping theme is used throughout the app.
+
+      Hello!
     </p>
     <br />
     <h2 class="title">Resources</h2>
